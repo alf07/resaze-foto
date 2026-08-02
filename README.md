@@ -1,3 +1,6 @@
+<img width="3750" height="1969" alt="resaze-foto" src="https://github.com/user-attachments/assets/82a78227-b997-492c-8e8f-8e2259e8f6fb" />
+
+
 # Image Crop Tool
 
 Простая утилита на Go для пакетной обрезки изображений.
